@@ -6,9 +6,9 @@ It fetches IPL data from the **CREX website** (IPL 2020 and IPL 2023), splits th
 
 ---
 
-##  What I Used
+## What I Used
 
 - **LangChain** (for chaining and loading)
 - **ChromaDB** (for vector storage)
 - **Cohere** (for embeddings and LLM)
-- **rlm/rag-prompt-mistral (LangChainHub)** prompt  (Mistral model format, but works with Cohere too)
+- **rlm/rag-prompt-mistral (LangChainHub)** prompt (Mistral model format, but works well with Cohere too)
